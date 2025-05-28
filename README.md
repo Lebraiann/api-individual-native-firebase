@@ -1,1 +1,0 @@
-# api-individual-native-firebase
