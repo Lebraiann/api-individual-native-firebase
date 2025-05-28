@@ -8,7 +8,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyD_27YmBdSNAhzufLFtDOZV7AAAj1akUFo",
   authDomain: "pokeapi2-9e2ec.firebaseapp.com",
   projectId: "pokeapi2-9e2ec",
-  storageBucket: "pokeapi2-9e2ec.appspot.com",
+  storageBucket: "pokeapi2-9e2ec.appspot.app",
   messagingSenderId: "558999792670",
   appId: "1:558999792670:web:c79d2ae033ba4c6684d20f"
 };
